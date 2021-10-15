@@ -2,8 +2,11 @@
 
 ## 1. Original Photo
 <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" >
-<img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" style="max-width: 30%;">
+<img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" style="width: 200px;">
 </a>
+<br />
+
+
 ## 2. Model( yellow ) 
 ###2-1. Style Mix feature
 <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_yellow/change-style-lje03-to_m010_iii.png">
@@ -51,7 +54,7 @@
 ## 3. Model( ffhq ) 
 ###3-1. Style Mix feature
 <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_ffhq/change-style-ffhq-lje03-to_m010_iii.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_ffhq/change-style-lje03-to_m010_iii.png?raw=true"  style="max-width: 100%;"> 
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_ffhq/change-style-ffhq-lje03-to_m010_iii.png?raw=true"  style="max-width: 100%;"> 
  </a>
  <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_ffhq/change-style-ffhq-lje03-to_w046_iii.png">
   <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_ffhq/change-style-ffhq-lje03-to_w046_iii.png?raw=true"  style="max-width: 100%;"> 
@@ -67,7 +70,7 @@
 ## 4. Model( met Painting ) 
 ###4-1. Style Mix feature
 <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_metPainting/change-style-ffhq-lje03-to_m010_iii.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_metPainting/change-style-lje03-to_m010_iii.png?raw=true"  style="max-width: 100%;"> 
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_metPainting/change-style-ffhq-lje03-to_m010_iii.png?raw=true"  style="max-width: 100%;"> 
  </a>
  <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_metPainting/change-style-ffhq-lje03-to_w046_iii.png">
   <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_metPainting/change-style-ffhq-lje03-to_w046_iii.png?raw=true"  style="max-width: 100%;"> 
