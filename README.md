@@ -1,5 +1,10 @@
 # styleGAN2Test
 
+be forked from <a href="https://github.com/robertluxemburg/stylegan2encoder"> https://github.com/robertluxemburg/stylegan2encoder </a>, and run the results as below. 
+<br />
+The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (yellow). other( oil met painting).
+
+
 ## 1. Original Photo
 <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" >
 <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" style="width: 200px;">
@@ -132,3 +137,13 @@
 <a href="https://github.com/justinpinkney/awesome-pretrained-stylegan2">https://github.com/justinpinkney/awesome-pretrained-stylegan2</a>
 <br />
 <a href="http://www.seeprettyface.com">http://www.seeprettyface.com (China)</a>
+
+## Later to do research
+
+<a href="https://github.com/bryandlee/stylegan2-encoder-pytorch"> bryandlee: encoder pytorch ( In domain inversion) </a>
+<br />
+<a href="https://github.com/bryandlee/naver-webtoon-faces"> bryandlee:  naver webToon Style </a>
+<br />
+<a href="https://github.com/TalkUHulk/realworld-stylegan2-encoder">realworld-stylegan2-encoder </a>
+<br />
+
