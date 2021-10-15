@@ -134,16 +134,21 @@ The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (
  
 
 ## Reference
-<a href="https://github.com/justinpinkney/awesome-pretrained-stylegan2">https://github.com/justinpinkney/awesome-pretrained-stylegan2</a>
-<br />
-<a href="http://www.seeprettyface.com">http://www.seeprettyface.com (China)</a>
+<a href="https://github.com/justinpinkney/awesome-pretrained-stylegan2">https://github.com/justinpinkney/awesome-pretrained-stylegan2</a><br />
+<a href="http://www.seeprettyface.com">http://www.seeprettyface.com (China)</a><br />
+
+## Reference (core function )
+<a href="https://github.com/NVlabs/stylegan2">https://github.com/NVlabs/stylegan2</a><br />
+<a href="https://github.com/RameenAbdal/StyleFlow">https://github.com/RameenAbdal/StyleFlow</a><br />
+
+
 
 ## Later to do research
 
-<a href="https://github.com/bryandlee/stylegan2-encoder-pytorch"> bryandlee: encoder pytorch ( In domain inversion) </a>
-<br />
-<a href="https://github.com/bryandlee/naver-webtoon-faces"> bryandlee:  naver webToon Style </a>
-<br />
-<a href="https://github.com/TalkUHulk/realworld-stylegan2-encoder">realworld-stylegan2-encoder </a>
-<br />
+<a href="https://github.com/bryandlee/stylegan2-encoder-pytorch"> bryandlee: encoder pytorch ( In domain inversion) </a><br />
+
+<a href="https://github.com/bryandlee/naver-webtoon-faces"> bryandlee:  naver webToon Style </a><br />
+
+<a href="https://github.com/TalkUHulk/realworld-stylegan2-encoder">realworld-stylegan2-encoder </a><br />
+
 
