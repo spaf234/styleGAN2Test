@@ -149,6 +149,10 @@ The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (
 
 <a href="https://github.com/bryandlee/naver-webtoon-faces"> bryandlee:  naver webToon Style </a><br />
 
+Cartoon, Anime Toonify<br />
+<a href="https://github.com/wonwizard/stylgan2-toonify">  https://github.com/wonwizard/stylgan2-toonify </a><br />
+<a href="https://github.com/justinpinkney/toonify/"> https://github.com/justinpinkney/toonify/ </a><br />
+
 <a href="https://github.com/TalkUHulk/realworld-stylegan2-encoder">realworld-stylegan2-encoder </a><br />
 
 
