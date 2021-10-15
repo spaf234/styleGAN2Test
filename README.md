@@ -4,7 +4,9 @@
 
 ## 2. Model( yellow ) 
 ###2-1. Style Mix feature
-<img src="./style_run_morph/mix_style_pkl_yellow.png"> 
+<a href="/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_yellow/change-style-lje03-to_m010_iii.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_yellow/change-style-lje03-to_m010_iii.png?raw=true"  style="max-width: 100%;"> 
+ </a>
 ###2-2. Style Transfer run
 
 ## 3. Model( ffhq ) 
