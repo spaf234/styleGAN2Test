@@ -4,8 +4,8 @@
 
 ## 2. Model( yellow ) 
 ###2-1. Style Mix feature
-<a href="/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_yellow/change-style-lje03-to_m010_iii.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_yellow/change-style-lje03-to_m010_iii.png?raw=true"  style="max-width: 100%;"> 
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_yellow/change-style-lje03-to_m010_iii.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/mix_style_pkl_yellow/change-style-lje03-to_m010_iii.png?raw=true"  style="max-width: 100%; hei"> 
  </a>
 ###2-2. Style Transfer run
 
@@ -21,4 +21,4 @@
 ## Reference
 <a href="https://github.com/justinpinkney/awesome-pretrained-stylegan2">https://github.com/justinpinkney/awesome-pretrained-stylegan2</a>
 <br />
-<a href="http://www.seeprettyface.com>http://www.seeprettyface.com (China)</a>
+<a href="http://www.seeprettyface.com">http://www.seeprettyface.com (China)</a>
