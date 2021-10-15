@@ -1,8 +1,8 @@
 # styleGAN2Test
 
 ## 1. Original Photo
-<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true">
-<img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true">
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" >
+<img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" style="max-width: 30%;">
 </a>
 ## 2. Model( yellow ) 
 ###2-1. Style Mix feature
@@ -26,22 +26,22 @@
   <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
  </a>
 <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/gender.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/gender.png?raw=true"  style="max-width: 100%;"> 
  </a>
  <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/happy.png">
   <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/happy.png?raw=true"  style="max-width: 100%;"> 
  </a>
  <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/surprise.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/surprise.png?raw=true"  style="max-width: 100%;"> 
  </a>
  <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/face heigth.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/face heigth.png?raw=true"  style="max-width: 100%;"> 
  </a>
  <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/yellow race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/yellow race.png?raw=true"  style="max-width: 100%;"> 
  </a>
  <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/black race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/black race.png?raw=true"  style="max-width: 100%;"> 
  </a>
 
 
