@@ -9,6 +9,15 @@ The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (
 <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" >
 <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_run_morph/lje03_01.png?raw=true" style="width: 200px;">
 </a>
+
+<br />
+
+
+```
+align_images.py    raw_images/  aligned_images/
+encode_images.py  aligned_images/    generated_images/   latent_representations/  --output_video=True   --model_url='./models/generator_ffhq-stylegan2-config-f.pkl'
+
+```
 <br />
 
 
@@ -30,26 +39,26 @@ The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (
  
  
 ### 2-2. Style Transfer run
-<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/age.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
  </a>
-<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/gender.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/gender.png?raw=true"  style="max-width: 100%;"> 
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/gender.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/gender.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/happy.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/happy.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/happy.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/happy.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/surprise.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/surprise.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/surprise.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/surprise.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/face height.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/face height.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/face height.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/face height.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/yellow race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/yellow race.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/yellow race.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/yellow race.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/black race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_yellow_4_lje03/black race.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/black race.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_yellow_4_lje03/black race.png?raw=true"  style="max-width: 100%;"> 
  </a>
 
 
@@ -72,26 +81,26 @@ The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (
  </a>
  
 ### 3-2. Style Transfer run
-<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/age.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/age.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
  </a>
-<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/gender.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/gender.png?raw=true"  style="max-width: 100%;"> 
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/gender.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/gender.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/happy.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/happy.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/happy.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/happy.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/surprise.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/surprise.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/surprise.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/surprise.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/face height.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/face height.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/face height.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/face height.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/yellow race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/yellow race.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/yellow race.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/yellow race.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/black race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_ffhq_4_lje03/black race.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/black race.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_ffhq_4_lje03/black race.png?raw=true"  style="max-width: 100%;"> 
  </a>
  
  
@@ -113,20 +122,20 @@ The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (
  
 ## 5. Model ( model )
 ### 5-2. Style Transfer run 
-<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/age.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/age.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/age.png?raw=true"  style="max-width: 100%;"> 
  </a>
-<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/gender.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/gender.png?raw=true"  style="max-width: 100%;"> 
+<a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/gender.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/gender.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/face height.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/face height.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/face height.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/face height.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/yellow race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/yellow race.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/yellow race.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/yellow race.png?raw=true"  style="max-width: 100%;"> 
  </a>
- <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/black race.png">
-  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix2/pkl_model_4_lje03/black race.png?raw=true"  style="max-width: 100%;"> 
+ <a href="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/black race.png">
+  <img src="https://github.com/spaf234/styleGAN2Test/blob/main/style_mix/pkl_model_4_lje03/black race.png?raw=true"  style="max-width: 100%;"> 
  </a>
  
  
@@ -142,6 +151,13 @@ The pretrained models for testing are from NVlabs(ffhq), and seeprettyface.com (
 <a href="https://github.com/RameenAbdal/StyleFlow">https://github.com/RameenAbdal/StyleFlow</a><br />
 
 
+## Pros and Cons
+<ul>
+  <li>AutoEncoder: 특징추출 좋음.  MSE(MeanSquaredError)로 인해 흐릿한 이미지blur</li>
+  <li>GAN: 고해상도 이미지생성.  학습불안정성, 스타일컨트롤 </li>
+</ul>
+<br />
+- next
 
 ## Later to do research
 
